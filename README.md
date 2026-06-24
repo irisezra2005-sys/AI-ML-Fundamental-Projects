@@ -1,9 +1,9 @@
-# AI-ML-Fundamental-Projects
+
 # AI & ML Fundamentals Project
 
 A structured research project covering the fundamentals of Artificial Intelligence and Machine Learning, a real-world industry use case, and the key ethical considerations in responsible AI development.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project was completed in three parts:
 
