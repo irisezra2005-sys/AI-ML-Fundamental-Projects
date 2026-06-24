@@ -1,0 +1,26 @@
+## References & Further Reading ##
+
+## AI & ML Fundamentals
+---------------------
+- Russell, S., & Norvig, P. "Artificial Intelligence: A Modern Approach" (Pearson) — foundational AI/ML concepts, search, and learning paradigms.
+- Goodfellow, I., Bengio, Y., & Courville, A. "Deep Learning" (MIT Press) — deep learning and neural network fundamentals.
+- Google Developers — Machine Learning Crash Course (https://developers.google.com/machine-learning/crash-course)
+- IBM Cloud Learn Hub — "What is Artificial Intelligence (AI)?" / "What is Machine Learning?"
+
+## Types of Machine Learning
+
+- Scikit-learn Documentation — Supervised and Unsupervised Learning (https://scikit-learn.org/stable/)
+- Sutton, R., & Barto, A. "Reinforcement Learning: An Introduction" (MIT Press)
+
+## Healthcare AI/ML Use Case
+
+- Topol, E. "Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again"
+- Nature Medicine — peer-reviewed articles on AI applications in medical imaging and diagnostics
+- World Health Organization (WHO) — Guidance on Ethics and Governance of AI for Health
+
+## AI Ethics & Responsible AI
+
+- IBM — "AI Fairness 360" toolkit documentation on algorithmic bias
+- European Commission — Ethics Guidelines for Trustworthy AI
+- HIPAA Journal — Overview of healthcare data privacy regulations
+- Partnership on AI — Responsible AI practices and frameworks
